@@ -1,18 +1,12 @@
-<!-- Banner Tipográfico -->
+<!--banner-->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F6F6F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Michell+Policarpio+%F0%9F%8C%8F;Engineer+%7C+Data+Analyst+%7C+Creative+Coder" alt="Typing SVG" />
 </p>
 
-<!-- Hero aesthetic GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400px">
-</p>
-
----
 
 ## 🕊️ *a digital storyteller with a data-driven heart*
 
-> I'm Michell, a Computer Science Engineering student who loves blending code with creativity.  
+> I'm Luis Matla, a Computer Science Engineering student who loves blending code with creativity.  
 > From **data models** to **web visuals**, my passion lies in turning abstract logic into beautiful, working systems.  
 > Inspired by science, design and the stars ✨
 
@@ -27,7 +21,7 @@
   web: ["HTML", "CSS", "JS", "Git", "GitHub"],
   env: ["VSCode", "Fedora", "macOS", "Windows"],
 }
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,java,js,php,html,css,mysql,postgres,mongodb,git,github,vscode,linux,windows&theme=light" /> </p>
 🎓 journey.so_far()
 🛰️ Participant in NASA Space Apps Challenge 2024
 
